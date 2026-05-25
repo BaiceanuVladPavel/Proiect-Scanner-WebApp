@@ -1,0 +1,15 @@
+<svg width="1125" height="2436" viewBox="0 0 1125 2436" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1125" height="2436" fill="#020617"/>
+  <circle cx="563" cy="450" r="360" fill="#083344" fill-opacity="0.75"/>
+  <circle cx="563" cy="450" r="490" fill="url(#glow)" fill-opacity="0.35"/>
+  <rect x="342" y="982" width="442" height="442" rx="104" fill="#0F172A" stroke="#67E8F9" stroke-opacity="0.8" stroke-width="22"/>
+  <text x="563" y="1248" text-anchor="middle" fill="white" font-size="214" font-family="Arial, sans-serif" font-weight="700">S</text>
+  <text x="563" y="1548" text-anchor="middle" fill="#CFFAFE" font-size="76" font-family="Arial, sans-serif" font-weight="600">Inventory Scanner</text>
+  <text x="563" y="1642" text-anchor="middle" fill="#94A3B8" font-size="46" font-family="Arial, sans-serif">iPhone-first barcode workflow</text>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(563 450) rotate(90) scale(490)">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
